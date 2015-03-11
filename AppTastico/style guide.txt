@@ -1,0 +1,26 @@
+colors:
+
+background: 82, 98, 110
+button-primary: 61, 148, 209
+button-secondary: 80, 150, 206
+
+nav gradient: vertical  from 	59,69, 77
+			to 	76, 91, 101
+
+koppen: 92,92,92
+paragraph: 136, 136, 136
+links+h4 : 0, 172, 237
+
+fonts:
+roboto
+
+container:
+width: 1200px
+
+header:
+height: 110px
+
+banner:
+height: 478px;
+
+
